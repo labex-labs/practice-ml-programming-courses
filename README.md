@@ -6,8 +6,8 @@
 
 Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
 
-|   Index | Name                                                                          | Level   | Repo                                                                        | Course Link                                                                      |
-|---------|-------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|   Index | Name                                                                          | Level   | Repo                                                                       | Course Link                                                                     |
+|---------|-------------------------------------------------------------------------------|---------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 |      01 | [Quick Start with Python](#quick-start-with-python)                           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)            | [🚀 Start Learning](https://labex.io/courses/quick-start-with-python)            |
 |      02 | [Quick Start with scikit-learn](#quick-start-with-scikit-learn)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn)      | [🚀 Start Learning](https://labex.io/courses/quick-start-with-scikit-learn)      |
 |      03 | [Quick Start with TensorFlow](#quick-start-with-tensorflow)                   | ★★☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [🚀 Start Learning](https://labex.io/courses/quick-start-with-tensorflow)        |

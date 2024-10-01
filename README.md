@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
 </div>
 
-Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
+Machine Learning is transforming industries across the globe. This Skill Tree presents a systematic approach to learning ML concepts and techniques. Designed for beginners, it provides a clear roadmap to understand algorithms, model training, and data analysis. Hands-on, non-video courses and practical exercises in an interactive ML playground ensure you develop real-world skills in building and deploying machine learning models.
 
 |   Index | Name                                                                                               | Level   | Repo                                                                       | Course Link                                                            |
 |---------|----------------------------------------------------------------------------------------------------|---------|----------------------------------------------------------------------------|------------------------------------------------------------------------|
@@ -22,15 +22,15 @@ Machine learning is the science of programming computers so they can learn from 
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
